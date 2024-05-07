@@ -1,4 +1,4 @@
-# hadoop_spark
+# hadoop_spark_arm
 
 Este repositorio contiene un cluster funcional Hadoop/Spark con una aplicacion
 aprovisionada que implementa algoritmos de vision computacional para conteo de vehiculos 
